@@ -1,4 +1,6 @@
 # WARNING: required node_modules not included! 
+Make a copy of your own React project's node_modules folder and put it with the rest of the files to view the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
